@@ -4,7 +4,7 @@ module.exports = function main(var0) {
     var var3=new Array();
     var num=0;
     var relog="";
-    for(var i=0;i<var0.length();i++)
+    for(var i=0;i<var0.length;i++)
     {
         num=parseInt(var0[i]);
         switch (num)
